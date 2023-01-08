@@ -2,6 +2,8 @@
 <p align="center" style="font-size: 15px;margin:20px 0;">at this time I want to do research on golang. when learning about frameworks, what was in my mind was always learning simple crud xixi. the package that I use is gin and gorm. the explanation is below here:</p>
 <p align="center">the source I studied: <br> https://kotakode.com/blogs/5479/Membuat-crud-api-dengan-menggunakan-Go%2C-Gin-dan-Mysql</p>
 
+<p align="center" style="font-size: 15px;margin:20px 0;">next, is it continued with jwt ? idk xoxo.</p>
+
 ### What is Gin?
 
 ``
